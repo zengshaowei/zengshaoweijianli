@@ -45,6 +45,8 @@
     border-bottom:1px dotted #ccc;
     margin-bottom:10px;
     padding-bottom:5px;
+    /*background-color: red;*/
+    /*border: 1px dotted red;*/
 }
 .resumeBody .certificates:last-child, .resumeBody .training:last-child, .resumeBody .graduates:last-child, .resumeBody .education-background:last-child, .resumeBody .project-experience:last-child, .resumeBody .work-experience:last-child {
     border-bottom:0;
